@@ -24,3 +24,6 @@ What is a private cloud? : https://azure.microsoft.com/en-us/overview/what-is-a-
 What is a hybrid cloud? : https://azure.microsoft.com/en-us/overview/what-is-hybrid-cloud-computing/
 
 What is a public cloud? : https://azure.microsoft.com/en-us/overview/what-is-a-public-cloud/
+
+Regions that support availability zones in Azure. : https://docs.microsoft.com/en-us/azure/availability-zones/az-region?azure-portal=true
+
